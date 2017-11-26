@@ -7,3 +7,20 @@ layout: landing-page
   <h3>"kochen, essen, teilen", lautet mein Motto. Die vietnamesische Küche ist von Natur aus eine Fusion-Küche mit Einflüssen aus Thailand, Laos, China, Kambodscha und jahrzehntelanger Prägung aus Frankreich und Japan. Hinzu kommt mein kochbegeisterter Freundeskreis aus Belgien, Portugal, dem Baden-Ländle und Kaiserstuhl...</h3>
  </header>
 </section>
+<section id="main" class="wrapper style1">
+    {% for post in site.posts %}
+        <div class="wrapper {% cycle 'style1', 'style2' %}">
+            <header class="major">
+                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            </header>
+            <section class="container">
+                {{ post.excerpt }}
+            </section>
+            <section class="special">
+                <ul class="actions">
+                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+                </ul>
+            </section>
+        </div>
+    {% endfor %}
+</section>

@@ -3,7 +3,7 @@ title: mamaskitchen.de
 email: mr-t@mamaskitchen.de
 description: kochen, teilen, essen
 baseurl: "/mamaskitchen.de"
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://taitruong.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
