@@ -3,14 +3,12 @@ layout: default
 ---
 
 <!-- Banner -->
+<h2 style="text-align:center;">Küche</h2>
 <section id="banner">
-    <div class="inner">
-        <h2>My Blog</h2>
-    </div>
 </section>
 <section id="main" class="wrapper style1">
     {% for post in site.posts %}
-        <div class="wrapper {% cycle 'style1', 'style2' %}">
+        <div class="wrapper {% cycle 'style2', 'style1' %}">
             <header class="major">
                 <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             </header>
