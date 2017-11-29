@@ -5,7 +5,10 @@ date:   2017-11-28 22:30
 tags: [Laotische, Vietnamesisch, Küche, Etikette]
 comments: true
 ---
-Es ist für mich immer wieder faszinierend, wenn ich für meine europäischen Bekannten, Freunde vietnamesisch, laotisch koche und folgendes erkläre:
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/bdeFdFEbuqk" frameborder="0" allowfullscreen></iframe>
+</div>
+Es ist für mich immer wieder faszinierend, wenn ich für meine europäischen Bekannten, Freunden vietnamesisch, laotisch koche und folgendes erkläre:
 
 1. mehrere Gerichte befinden sich "in unserer Mitte" (des Tisches)
 2. davon ist eine Suppe, die wir uns *teilen*, d.h. wir löffeln alle aus einer gemeinsamen Schüssel
@@ -33,4 +36,3 @@ Denn wäre es ein Potpourri, können wir alles zusammenschmeißen. Am besten in 
 
 Zu 6. Gesten, Symbolik, Zuneigung
 Sichtweisen, besonders interkulturelle, können sehr gegensätzlich sein, was mein Gegenüber hier als Bevormundung ansieht, wenn ich ein Stück vom Huhn, von der knusprigen "Schweinehaut", ein Gemüse dippe und es in deine Schale reinreiche, gilt bei uns als besondere Wertschätzung, Zuneigung und Bedeutung des Gastes, Freundes, Momentes. Für dich fühlt sich das an wie ein Kind, das nicht selbständig essen kann. Für mich ist es so, als würde ich dir die Spitze des Spargels von meinem Teller überreichen. Yin. Yang.
-
