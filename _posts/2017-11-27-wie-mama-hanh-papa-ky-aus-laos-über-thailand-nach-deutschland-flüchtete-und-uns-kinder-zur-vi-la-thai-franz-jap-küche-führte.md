@@ -7,9 +7,6 @@ comments: true
 ---
 Oder: Wie Hanh und Ky, Mama und Papa, aus Laos, über Thailand, nach Deutschland flüchteten und uns fünf Kindern zur vietnamesisch-laotisch-thailändisch-japanisch-französischen Küche führte.
 <img class="fit image" src="{{ site.baseurl }}/images/2017-11-27-sommerrolle-als-gericht.jpg">
-
-# Essen
-
 Essen ist wichtiger Bestandteil unseres Lebens, in allen Kulturen und in einer Familie. So auch und besonders bei uns, im Hause Truong. Essen, darüber reden, heiß und innig diskutieren, wie-was-in-welcher-Reihenfolge-gegessen-wird, welches von uns Kindern sein Süppchen besser abschmeckte. In diesen schönen Momenten, Erinnerungen entsteht jene verbindende, symbiotische Magie, jene energetische Ein-Zwietracht, vielfach, mannigfaltig, exponential. Unzählige Restaurants, samt ihren Straßen-Sterne-Präfixen und sonders ihre [Gault Millau](https://www.gaultmillau.com)- und [Michelin](de.wikipedia.org/wiki/Guide_Michelin)-Gütesiegel habe ich probiert, genossen, verflucht, vergessen... emotional, offen für neue Geschmäcker, weg von den Üblichen-beim-Italiener-Pizza-beim-Schweizer-Fondue-usw-usf-Gewohnheiten.
 
 <img class="image right" src="{{ site.baseurl }}/images/2017-11-27-papa-am-grillen-laotisches-essen.jpg">

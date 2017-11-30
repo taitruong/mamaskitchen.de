@@ -9,7 +9,6 @@ comments: true
   <iframe src="https://www.youtube.com/embed/bdeFdFEbuqk" allowfullscreen></iframe>
 </div>
 Es ist für mich immer wieder faszinierend, wenn ich für meine europäischen Bekannten, Freunden vietnamesisch, laotisch koche und folgendes erkläre:
-
 1. Mehrere Gerichte befinden sich "in unserer Mitte" (des Tisches).
 2. Davon ist eine Suppe, die wir uns **teilen**, d.h. wir löffeln alle aus einer gemeinsamen Schüssel.
 3. Alles wird mit Stäbchen gegessen - bis auf die Suppe natürlich.
