@@ -9,7 +9,6 @@ layout: landing-page
 </section>
 <section id="main" class="wrapper style1">
     {% for post in site.posts %}
-
         <div class="wrapper {% cycle 'style1', 'style2' %}">
             <header class="major">
                 <h3>{{post.date | date: "%b %-d, %Y" }}</h3>
@@ -20,7 +19,7 @@ layout: landing-page
             </section>
             <section class="special">
                 <ul class="actions">
-                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Zum Blog...</a></li>
+                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Zur Küche...</a></li>
                 </ul>
             </section>
         </div>
