@@ -6,7 +6,7 @@ tags: [Laotische, Vietnamesisch, Küche]
 comments: true
 ---
 <img class="fit image" src="{{site.baseurl}}/images/2017-12-06-cover-savoy-cabbage-mushroom.jpg">
-Es ist etwas spät geworden und ich weiß ganz ehrlich nicht wann ich angefangen habe zu schnibbeln :). Ich habe schon für öfters für viele Leute privat gekoch, oft spontan, oft wurden aus 5 dann 12 und mehr Gäste. Folgende Zutaten werden für diesen Donnerstag verarbeitet:
+Es ist etwas spät geworden und ich weiß ganz ehrlich nicht, wann ich angefangen habe zu schnibbeln :). Ich habe schon für öfters für viele Leute privat gekocht, oft spontan, oft wurden aus 5 dann 12 und mehr Gäste. Folgende Zutaten werden für diesen Donnerstag verarbeitet:
 - 3 Stück Wirsing
 - 2 Stück Weißkohl
 - 3 Stück Lauch
