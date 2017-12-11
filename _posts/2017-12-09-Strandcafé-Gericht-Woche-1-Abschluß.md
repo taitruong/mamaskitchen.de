@@ -50,7 +50,7 @@ Das sind solche Entwicklungen in "unserer" Zivilisation, die mir zu denken geben
 # Umami-Sommerrollen-Bombe
 
 <img class="fit image" src="{{site.baseurl}}/images/2017-12-09-Champignons.jpg">
-[Umami](https://de.wikipedia.org/wiki/Umami) ist bekannt als fünften Geschmack, nebst Süß, Sauer, Bitter, Salzig. Umami wurde offziell von einem japanische Chemiker im Jahr 1908/1909 "entdeckt". Leider fand er auch heraus, dass man diese auch synthetisieren kann. Bekannt auch als MSG - Monosodium-Glutamat :(. Oftmals verbindet man die asiatische Küche mit dem künstlichem Glutamat. Leider hat MSG die asiatische stark beeinflusst. Leider auch in der westlichen Welt in Form von Fertigprodukten nebst vielen weiteren künstlichen E-Stoffen. Habt ihr mal versucht einen Senf **ohne** E-Stoffe zu kaufen. Selbst "Premiummarken" verzichten nicht auf diese. Unsere Generationen davor arbeiteten mit den natürlichen Mitteln, um ein Gericht ihrer Note zu verleihen: mit Röstaromen wie das anbraten, "anschwärzen" von Zwiebeln, mit Fleisch **mit** Knochen, weil ein Knochen und deren Mark dem Braten oder einer Suppe den Geschmack verleihen, abrunden und verfeinern.
+[Umami](https://de.wikipedia.org/wiki/Umami) ist bekannt als fünften Geschmack, nebst Süß, Sauer, Bitter, Salzig. Umami wurde offziell von einem japanische Chemiker im Jahr 1908/1909 "entdeckt". Leider fand er auch heraus, dass man diese auch synthetisieren kann. Bekannt auch als MNG - Mononatriumglutamat :(. Oftmals verbindet man die asiatische Küche mit dem künstlichem Glutamat. Leider hat MNG die asiatische stark beeinflusst. Leider auch in der westlichen Welt in Form von Fertigprodukten nebst vielen weiteren künstlichen E-Stoffen. Habt ihr mal versucht einen Senf **ohne** E-Stoffe zu kaufen. Selbst "Premiummarken" verzichten nicht auf diese. Unsere Generationen davor arbeiteten mit den natürlichen Mitteln, um ein Gericht ihrer Note zu verleihen: mit Röstaromen wie das anbraten, "anschwärzen" von Zwiebeln, mit Fleisch **mit** Knochen, weil ein Knochen und deren Mark dem Braten oder einer Suppe den Geschmack verleihen, abrunden und verfeinern.
 
 > **UPDATE 2017-12-11 Dank an Vincent, Kollege und Laborklugscheißer ;) am Institut für Makromolekulare Chemie: es heiß natürlich Mononatriumglutamat. Zu meiner Entschuldigung: ich bin wohl zu oft Englisch unterwegs. Da heißt es natürlich [Monosodium Glutamate](https://en.wikipedia.org/wiki/Monosodium_glutamate). Was soll ich sagen: [Denglisch](https://de.wikipedia.org/wiki/Denglisch) halt...**
 
@@ -73,15 +73,15 @@ Synergierender/verstärkender Umami:
 <img class="fit image" src="{{site.baseurl}}/images/2017-12-09-Pilzpfanne.jpg">
 <img class="image right" src="{{site.baseurl}}/images/2017-12-09-Pfeffer-aus-Phu-Quoc.jpg">
 <img class="image left" src="{{site.baseurl}}/images/2017-12-09-Muskat.jpg">
-Für die Sommerrolle entschied ich mich Champignons zu verwenden. Dazu habe ich Zwiebeln angedünstet, die Pilze mit Salz, Muskat und speziellem Pfeffer verfeinert, den ich aus [Phú Quốc](https://de.wikipedia.org/wiki/Phú_Quốc) mitgebracht habe. Phú Quốc ist die größte Insel Vietnams und liegt im Süden. Die Insel ist berühmt für ihre Fischsauce.
-
-> Witzigerweise werben auch Hersteller aus anderen Ländern - wie z.B. Thailand - mit ihrer Fishsauce aus dieser Region.
+Für die Sommerrolle entschied ich mich Champignons zu verwenden. Dazu habe ich Zwiebeln angedünstet, die Pilze mit Salz, Muskat und speziellem Pfeffer verfeinert, den ich aus [Phú Quốc](https://de.wikipedia.org/wiki/Phú_Quốc) mitgebracht habe.
 
 > Welcher Pfeffer auch fantastisch ist, ist der rote, sogar leicht scharfe "Kampot Red Pepper" aus Kambodscha. Vorsicht vor den Kambodschanern - ich meine derem Chili ;). Der Chili, den man hier im Asia-Shop findet kommt von dort und ist super-scharf!
 
-Ich war letzten August 2016 dort und habe diesen Pfeffer mitgebracht. In Phú Quốc habe ich auch eine ganz besondere Fischsaucen-Fabrik besucht. Es ist der einzige(!) Hersteller, der seine Fishsauce in Holzfässern 9 bis 12 Monate lagert.Ein Vergleich: in der Regel, d.h. alle anderen Hersteller benötigen 3 Monate, vom Fang bis zur Auslieferung, für die Herstellung einer Fishsauce. Ich sage euch: im Ton, der Färbung, Fermentierung und im Geschmack ist diese Fischsauce ein himmelweiter Unterschied.
+> Phú Quốc ist die größte Insel Vietnams und liegt im Süden. Die Insel ist berühmt für ihre Fischsauce. Witzigerweise werben auch Hersteller aus anderen Ländern - wie z.B. Thailand - mit ihrer Fishsauce aus dieser Region.
 
->  Letzter Stand über den Hersteller: sie sind dabei, sich "koscher" zertifizieren zu lassen! In diesem Fall bedeutet, dass ausschließlich Sardellen (Anchovies) verwendet wird. "Fishsauce besteht doch nur aus Sardellen!", höre ich da schon schreien. Ja, aber beim Fang findet sich im Netz zahlreiche andere Meerestiere. Bei einer koschen Fishsauce müssen, diese Meeres- und Kleinsttiere aussortiert werden.
+> Ich war letzten August 2016 dort und habe diesen Pfeffer mitgebracht. In Phú Quốc habe ich auch eine ganz besondere Fischsaucen-Fabrik besucht. Es ist der einzige(!) Hersteller, der seine Fishsauce in Holzfässern 9 bis 12 Monate lagert.Ein Vergleich: in der Regel, d.h. alle anderen Hersteller benötigen 3 Monate, vom Fang bis zur Auslieferung, für die Herstellung einer Fishsauce. Ich sage euch: im Ton, der Färbung, Fermentierung und im Geschmack ist diese Fischsauce ein himmelweiter Unterschied.
+
+>  Letzter Stand über den Hersteller: sie sind dabei, sich "koscher" zertifizieren zu lassen! In diesem Fall bedeutet, dass ausschließlich Sardellen (Anchovies) verwendet wird. "Fishsauce besteht doch nur aus Sardellen!", höre ich da schon schreien. Ja, aber beim Fang findet sich im Netz zahlreiche andere Meerestiere. Bei einer koschen Fishsauce müssen diese Meeres- und Kleinsttiere aussortiert werden.
 
 # Karamelisierte Wirsing-FrüFrühlingsrollen
 
