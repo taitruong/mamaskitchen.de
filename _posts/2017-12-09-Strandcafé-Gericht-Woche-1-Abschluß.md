@@ -73,13 +73,11 @@ Synergierender/verstärkender Umami:
 <img class="fit image" src="{{site.baseurl}}/images/2017-12-09-Pilzpfanne.jpg">
 <img class="image right" src="{{site.baseurl}}/images/2017-12-09-Pfeffer-aus-Phu-Quoc.jpg">
 <img class="image left" src="{{site.baseurl}}/images/2017-12-09-Muskat.jpg">
-Für die Sommerrolle entschied ich mich Champignons zu verwenden. Dazu habe ich Zwiebeln angedünstet, die Pilze mit Salz, Muskat und speziellem Pfeffer verfeinert, den ich aus [Phú Quốc](https://de.wikipedia.org/wiki/Phú_Quốc) mitgebracht habe.
+Für die Sommerrolle entschied ich mich Champignons zu verwenden. Dazu habe ich Zwiebeln angedünstet, die Pilze mit Salz, Muskat und speziellem Pfeffer verfeinert, den ich aus [Phú Quốc](https://de.wikipedia.org/wiki/Phú_Quốc), August 2016 mitgebracht habe.
 
 > Welcher Pfeffer auch fantastisch ist, ist der rote, sogar leicht scharfe "Kampot Red Pepper" aus Kambodscha. Vorsicht vor den Kambodschanern - ich meine derem Chili ;). Der Chili, den man hier im Asia-Shop findet kommt von dort und ist super-scharf!
 
-> Phú Quốc ist die größte Insel Vietnams und liegt im Süden. Die Insel ist berühmt für ihre Fischsauce. Witzigerweise werben auch Hersteller aus anderen Ländern - wie z.B. Thailand - mit ihrer Fishsauce aus dieser Region.
-
-> Ich war letzten August 2016 dort und habe diesen Pfeffer mitgebracht. In Phú Quốc habe ich auch eine ganz besondere Fischsaucen-Fabrik besucht. Es ist der einzige(!) Hersteller, der seine Fishsauce in Holzfässern 9 bis 12 Monate lagert.Ein Vergleich: in der Regel, d.h. alle anderen Hersteller benötigen 3 Monate, vom Fang bis zur Auslieferung, für die Herstellung einer Fishsauce. Ich sage euch: im Ton, der Färbung, Fermentierung und im Geschmack ist diese Fischsauce ein himmelweiter Unterschied.
+> Phú Quốc ist die größte Insel Vietnams und liegt im Süden. Die Insel ist berühmt für ihre Fischsauce. Witzigerweise werben auch Hersteller aus anderen Ländern - wie z.B. Thailand - mit ihrer Fishsauce aus dieser Region. Dort habe ich auch eine ganz besondere Fischsaucen-Fabrik aufgespürt, aufgefunden und aufgrund meiner Hartnäkigkeit durfte ich diese auch besuchen. Es ist der einzige(!) Hersteller, der seine Fishsauce in Holzfässern 9 bis 12 Monate lagert.Ein Vergleich: in der Regel, d.h. alle anderen Hersteller benötigen 3 Monate, vom Fang bis zur Auslieferung, für die Herstellung einer Fishsauce. Ich sage euch: im Ton, der Färbung, Fermentierung und im Geschmack ist diese Fischsauce ein himmelweiter Unterschied.
 
 >  Letzter Stand über den Hersteller: sie sind dabei, sich "koscher" zertifizieren zu lassen! In diesem Fall bedeutet, dass ausschließlich Sardellen (Anchovies) verwendet wird. "Fishsauce besteht doch nur aus Sardellen!", höre ich da schon schreien. Ja, aber beim Fang findet sich im Netz zahlreiche andere Meerestiere. Bei einer koschen Fishsauce müssen diese Meeres- und Kleinsttiere aussortiert werden.
 
