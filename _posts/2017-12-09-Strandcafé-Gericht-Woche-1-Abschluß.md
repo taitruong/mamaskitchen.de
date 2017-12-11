@@ -73,7 +73,7 @@ Synergierender/verstärkender Umami:
 <img class="fit image" src="{{site.baseurl}}/images/2017-12-09-Pilzpfanne.jpg">
 <img class="image right" src="{{site.baseurl}}/images/2017-12-09-Pfeffer-aus-Phu-Quoc.jpg">
 <img class="image left" src="{{site.baseurl}}/images/2017-12-09-Muskat.jpg">
-Für die Sommerrolle entschied ich mich Champignons zu verwenden. Dazu habe ich Zwiebeln angedünstet, die Pilze mit Salz, Muskat und speziellem Pfeffer verfeinert, den ich aus [Phú Quốc](https://de.wikipedia.org/wiki/Phú_Quốc), August 2016 mitgebracht habe.
+Für die Sommerrolle entschied ich mich Champignons zu verwenden. Dazu habe ich Zwiebeln angedünstet, die Pilze mit Salz, Muskat und speziellem Pfeffer verfeinert, den ich im August 2017 aus [Phú Quốc](https://de.wikipedia.org/wiki/Phú_Quốc) mitgebracht habe.
 
 > Welcher Pfeffer auch fantastisch ist, ist der rote, sogar leicht scharfe "Kampot Red Pepper" aus Kambodscha. Vorsicht vor den Kambodschanern - ich meine derem Chili ;). Der Chili, den man hier im Asia-Shop findet kommt von dort und ist super-scharf!
 
@@ -99,7 +99,7 @@ So, und jetzt kommt der aufwendigste Teil: Frühllings- und Sommerrollen rollen 
 <img class="image right" src="{{site.baseurl}}/images/2017-12-09-Rollen-How-To-4.jpg">
 - zweite Außenfüllung: Lauch bzw. Kräuter für die Sommerrolle
 
-Mit dem Lauch als Außenfüllung für die Frühlingsrolle war ein Experiment. Ich wollte schauen, ob ich den Lauch beim Fritieren kross hinbekomme. Doch es war nicht ganz einfach... wie ihr unten im Bild seht, dann sieht es gar nicht so schlecht aus. Doch beim vordersten links, ist die genau die Lauchstelle der Grund, warum sie sich durch die Reisblätter durchgebraten hat. Dadurch war die ganze Rolle etwas oder manchmal ganz aufgebrochen. Auf jeden Fall war der Lauch direkt dem Öl ausgesetzt und wurde schwarz.
+Mit dem Lauch als Außenfüllung für die Frühlingsrolle war ein Experiment bzw der gekochte Weißkohl war die Außenfüllung und an einer Stelle ist ein Streifen Lauch. Ich wollte schauen, ob ich den Lauch beim Fritieren kross hinbekomme. Doch es war nicht ganz einfach... wie ihr unten im Bild seht, sieht es gar nicht so schlecht aus. Doch bei der vordersten Frühlingsrolle links, ist die genau die Lauchstelle der Grund, warum sie sich durch die Reisblätter durchgebraten hat. Dadurch war die ganze Rolle etwas oder manchmal ganz aufgebrochen. Auf jeden Fall war der Lauch direkt dem Öl ausgesetzt und wurde schwarz.
 <img class="fit image" src="{{site.baseurl}}/images/2017-12-09-Frühlingsrollen-fritieren.jpg">
 
 # Rohkostdip
