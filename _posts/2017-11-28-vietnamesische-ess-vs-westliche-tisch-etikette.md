@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vietnamesische Ess-Etikette vs. Westliche Tisch-Etikette"
+title:  "Vietnamesische Ess- vs. Westliche Tisch-Etikette"
 date:   2017-11-28 22:30
 tags: [Vietnamesisch, Küche, Etikette]
 comments: true
