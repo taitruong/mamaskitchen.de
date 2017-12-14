@@ -8,20 +8,42 @@ layout: landing-page
  </header>
 </section>
 <section id="main" class="wrapper style1">
-    {% for post in site.posts %}
-        <div class="wrapper {% cycle 'style1', 'style2' %}">
-            <header class="major">
-                <h3>{{post.date | date: "%b %-d, %Y" }}</h3>
-                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            </header>
-            <section class="container">
-                {{ post.excerpt }}
-            </section>
-            <section class="special">
-                <ul class="actions">
-                    <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Zur Küche...</a></li>
-                </ul>
-            </section>
-        </div>
-    {% endfor %}
+  <header class="major">
+    <div>
+      <b>
+        Je öfter ich diesen Blog lese, desto mehr finde ich Komma-Satz-Plural-Singular-Tempi-Fehler.
+      </b>
+    </div>
+    <div>
+      <b>
+        Hin-und-hergerissen zwischen deutsch-perfekter-vietnamesisch-spontaner-einfach-aus-mir sprudelnder Sprach-Schreib-Gedanken-Strom.
+      </b>
+    </div>
+    <div>
+      <b>
+        Ich mag es authentisch und überlasse dir die Bewertung des Rohmaterials.
+      </b>
+    </div>
+    <div>
+      <b>
+        Abschmecken darfst du selber ;).
+      </b>
+    </div>
+  </header>
+  {% for post in site.posts %}
+    <div class="wrapper {% cycle 'style1', 'style2' %}">
+      <header class="major">
+        <h3>{{post.date | date: "%b %-d, %Y" }}</h3>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      </header>
+      <section class="container">
+        {{ post.excerpt }}
+      </section>
+      <section class="special">
+        <ul class="actions">
+          <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Zur Küche...</a></li>
+        </ul>
+      </section>
+    </div>
+  {% endfor %}
 </section>
