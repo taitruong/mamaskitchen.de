@@ -13,7 +13,7 @@ Gut 18h geschnitten, gewaschen, gekocht, um dann 63 Portionen über die Theke zu
   Sorry, dein Browser so alt, dass er dieses Video nicht abspielen kann :P!
 </video>
 
-Heute haben mich einige Gäste gefragt, wie ich die Omletts so hauchdünn hinbekomme und wieviel Mehl ich verwendet habe. Nun, die Sake-Omletts bestehen lediglich aus Bio-Eiern, Salz, Pfeffer und eben [Sake - ein japanischer Reiswein](https://de.wikipedia.org/wiki/Sake). Den Rest hat mein kleiner Helfer, ein Vitamix, erledigt ;). Um genau zu sein, habe ich [Kampot Red Pepper](https://en.wikipedia.org/wiki/Kampot_(pepper)) verwendet, den mir mein kleiner Bruder vor etwa 2 Jahren von eben dort mitgebracht hat. Seither habe ich es sparsam verwendet, weil sehr exquisit - doch diesen wollte ich dem Strandcafé nicht vorenthalten :).
+Heute haben mich einige Gäste gefragt, wie ich die Omletts so hauchdünn hinbekommen und wieviel Mehl ich verwendet habe. Nun, die Sake-Omletts bestehen lediglich aus Bio-Eiern, Salz, Pfeffer und eben [Sake - ein japanischer Reiswein](https://de.wikipedia.org/wiki/Sake). Den Rest hat mein kleiner Helfer, ein Vitamix, erledigt ;). Um genau zu sein, habe ich [Kampot Red Pepper](https://en.wikipedia.org/wiki/Kampot_(pepper)) verwendet, den mir mein kleiner Bruder vor etwa 2 Jahren von eben dort mitgebracht hat. Seither habe ich es sparsam verwendet, weil sehr exquisit - doch diesen wollte ich dem Strandcafé nicht vorenthalten :).
 
 <img class="image left" src="{{site.baseurl}}/images/2017-12-14-vitamix-omlett-texture-1.jpg">
 <img class="image right" src="{{site.baseurl}}/images/2017-12-14-vitamix-omlett-texture-2.jpg">
