@@ -2,7 +2,7 @@
 layout: post
 title: Strandcafé Grande Finale und Resumée
 date: 2018-01-03 12:15
-tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Bio, Regional]
+tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Bio, Regional, Phở]
 comments: true
 ---
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-03-cover-Phở.jpg">
