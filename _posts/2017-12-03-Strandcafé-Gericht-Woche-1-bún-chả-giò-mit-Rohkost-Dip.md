@@ -2,7 +2,7 @@
 layout: post
 title: bún chả giò - Vietnamesicher Nudelsalat mit Frühlingsrollen und Rohkostdip - Strandcafé, 7. Dezember 2017
 date: 2017-12-03 21:00
-tags: [Laotische, Vietnamesisch, Küche, Strandcafé, Frühlingsrollen, Sommerrollen ]
+tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Frühlingsrollen, Sommerrollen ]
 comments: true
 ---
 Am kommenden und den nächsten beiden weiteren Donnerstagen werde ich als Gastkoch im [Strandcafé](https://zlev.de/projekte/zusammen-kaffee/) das Mittagessen zubereiten und servieren. Das wäre am 7., 14. und 21. Dezember von 12 bis 14 Uhr. Ich werde vietnamesisch kochen und es werden vegetarische oder vegane Gerichte geben. Hierfür habe ich in den letzten Tagen gekocht, experimentiert und etwas Feedback eingeholt. Wichtig ist zu erwähnen, dass es keinen festen Preis gibt und du selber bestimmst, wieviel dir das Essen, dem Verein und deren Förderung wert ist.

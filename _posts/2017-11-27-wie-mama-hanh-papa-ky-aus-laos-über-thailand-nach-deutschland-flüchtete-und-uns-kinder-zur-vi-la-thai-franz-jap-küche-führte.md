@@ -2,7 +2,7 @@
 layout: post
 title:  "Yin und Yang - mehr als nur Basen und Säuren"
 date:   2017-11-27 23:12
-tags: [Laotische, Vietnamesisch, französische, japanische, Küche, Yinyang, Yin, Yang]
+tags: [Laotisch, Vietnamesisch, französische, japanische, Küche, Yinyang, Yin, Yang]
 comments: true
 ---
 Oder: Wie Hanh und Ky, Mama und Papa, aus Laos, über Thailand, nach Deutschland flüchteten und uns fünf Kindern zur vietnamesisch-laotisch-thailändisch-japanisch-französischen Küche führte.
