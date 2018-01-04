@@ -30,6 +30,9 @@ Die vietnamesischen Salat-Gerichte nennen sich [Gỏi bzw. Nộm in Nordvietnam]
 
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-04-Zwiebelmettwurst.jpg">
 
+[2018-01-04, 17:20 - Update]
+Diesen Link möchte ich dir nicht vorenthalten: eine [Erklärung (mit Bildern) über vietnamesische Gerichte](http://phuquocexplorer.com/vietnamtasty.html).
+
 Wohl bekommt's! Tai
 
 [2018-01-04, 16:37]
