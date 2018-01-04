@@ -23,6 +23,13 @@ Zum Schluß noch der Verweis auf die [vietnamesische Küche](https://en.wikipedi
 * andere kleinere Beilagen wie eingelegte, fermentiertes Gemüse, Sojasprossen, Kohl, Papaya etc.
 * frische Früchte oder eine Süßspeise am Schluss
 
+[2018-01-04, 16:50 - Update]
+Nur ein Beispiel über die Unterschiedlichkeit zwischen der veitnamesischen und westlichen Küche. Salate hier gelten als Beilagen. Abgesehen davon, dass alles Grüne roh anscheinend nur in Form von Salaten vorkommt. Das ist mir völlig unbegreiflich. Wenn schon als Beilage - was bei uns dennoch ein eigenständiges Gericht ist - dann kann es auch roh serviert werden. In den ganzen anderen Bei-Gerichten haben schon soviel Säure und Salz im Spiel. Einfach geschnippeltes Gemüse oder Salat als Bei-Gericht und das ganze ist viel ausgewogener! Oder einfach Chinal-Kohl, Pak-Choi, Spinat in heißen Wasser kurz aufkochen! Diese dann nur mit Reis essen. Als Dip kann man dann eine Soja- oder Fish-Sauce verwenden! Ganz einfach und sehr lecker.
+
+Die vietnamesischen Salat-Gerichte nennen sich [Gỏi bzw. Nộm in Nordvietnam](https://en.wikipedia.org/wiki/Nộm). Es gibt unzählige Variationen davon. Ich nenne sie meistens "Bier-Gerichte", weil sie meistens für einen geselligen Abend zubereitet werden - und es viel gesünder ist, als sich irgendeinen Dreck aus Chips und Süßigkeiten reinzustopfen. Die bekanntestens sind mit Papaya, Karotten oder mit Rindfleisch. Die Papaya oder Karotten werden dabei in Streifen geschnitten und in einem großen Ton-Mörser zerstampft. Dem Salat wird dann ein Löffel Shrimp-Paste oder Fischsauce, Chili, Zucker, etc beigefügt. Eine andere Fleisch-Variante, die ich total lecker finde, ist auch einfach zu machen: Zwiebelmettwurst in eine Schüssel, Reiskörner geröstet und gemahlen beifügen, frischen Zitronensaft. Am Schluss Koriander beifügen. Vater verwendet auch gerne die Schwarte, kocht diese, schneidet es in Streifen und fügt diese hinzu. So sieht es dann aus:
+
+<img class="fit image" src="{{site.baseurl}}/images/2018-01-04-Zwiebelmettwurst.jpg">
+
 Wohl bekommt's! Tai
 
 [2018-01-04, 16:37]
