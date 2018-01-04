@@ -25,7 +25,7 @@ Wie du siehst sind die Pilze 'gekocht', sind aber trotzdem frisch - weil nur kur
 
 Am Abend gab es noch eine tolle, neue Veranstaltung von [zusammen leben](https://www.facebook.com/zusammenlebeneV/) mit dem Thema [Poesie und Live-Musik](https://www.facebook.com/events/1957116771169899/). Und weil ich noch genug zu essen hatte, habe ich spontan am Abend nochmal aufgetischt :)! Dazwischen war ich mal kurz im Büro und habe noch letzte Arbeiten für meinen Kunden erledigt... so schön wie der Tag anfing, so atmosphärisch-anders-schön ging es am Abend weiter.
 
-... und weil es gerade gepasst hat, hatte ich heute meine erste öffentliche Poesie-Premiere. Und es war wieder einer der vielen ersten Momente die ich in 2017 erlebt habe. Das Gedicht, das ich vortrug, ist dem zusammen leben-Verein gewidmet und ist ein ganz [persönliches Flüchtlingswunschgedicht](https://taitruong.github.io/mr-t.org/2018/01/03/Unsicher-Auftakt/).
+... und weil es gerade gepasst hat, hatte ich heute meine erste öffentliche Poesie-Premiere. Und es war wieder einer der vielen ersten Momente die ich in 2017 erlebt habe. Das Gedicht, das ich vortrug, ist dem zusammen leben-Verein gewidmet und ist ein ganz [persönliches Flüchtlingswunschgedicht](https://taitruong.github.io/mr-t.org/2018/01/03/Unsicherer-Auftakt/).
 
 Und zum Schluß ging die letzte Portion, kurz vor Mitternacht über die Theke:
 
