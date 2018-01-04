@@ -38,6 +38,8 @@ Was aber schonender und geschmacklich viel feiner ist, wenn man einen Schnellkoc
 
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-04-Mắm-cá-lóc-gedämpfter-Eierkuchen.jpg">
 
+> Noch ein Tipp: nebst Gurken passt Chicorée sehr gut dazu. Man kann die Kräuter und den Eierkuchen auch in ein Blatt Chicorée machen und aus dieser mit Reis essen. Oder einfach ein paar Fetzen vom Chicorée in die Reisschale tun's auch...
+
 Wohl bekommt's, Mr. T
 
 [2018-01-04, 22:14]
