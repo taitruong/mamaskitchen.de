@@ -11,7 +11,7 @@ Dieses Gericht ist eine [Umami-Bombe](https://de.wikipedia.org/wiki/Umami) schle
 
 > In Vietnam, there is a popular food item called mắm, which is made the same way as fish sauce, except that both the fish and the liquid extract, not just the liquid, are kept. Mắm is also fermented for a shorter period than fish sauce. Mắm is either eaten as is (uncooked), or cooked in soups or stir-fries.
 
-Mắm - als Gericht - ist sehr beliebt im Süden. Laut dieser [Quelle](http://en.skydoor.net/entry/Salted_fish_of_Chau_Doc/240) findet man aber nur in dem Ort Châu Đốc ([Wikpedia](https://en.wikipedia.org/wiki/Châu_Đốc), [Google Maps](https://goo.gl/maps/fy1gN6suKvk) über 30 Variationen an fermentiertem Fisch. In der Regel sind das Süßwasserfische wie zum Beispiel:
+Mắm - als Gericht - ist sehr beliebt im Süden. Laut dieser [Quelle](http://en.skydoor.net/entry/Salted_fish_of_Chau_Doc/240) findet man aber nur in dem Ort Châu Đốc ([Wikpedia](https://en.wikipedia.org/wiki/Châu_Đốc), [Google Maps](https://goo.gl/maps/fy1gN6suKvk)) über 30 Variationen an fermentiertem Fisch. In der Regel sind das Süßwasserfische wie zum Beispiel:
 
 - [Schlangenkopffisch](https://de.wikipedia.org/wiki/Schlangenkopffische)
 - [Wels](https://de.wikipedia.org/wiki/Welsartige)
@@ -28,13 +28,13 @@ Nebst Fisch gibt es Mắm auch als Shrimp- oder Krabben-Variante:
 - mắm thái (tiny-shrimp paste)
 - mắm ba khía (tiny-crab paste)
 
-Was es das Rezept anbetrifft habe ich zwei gefunden. Bei [diesem hier](http://www.vickypham.com/blog/vietnamese-meatloaf-mam-chung) kann sich das Video anschauen, um einen ersten Eindruck zu bekommen:
+Was es das Rezept anbetrifft habe ich zwei gefunden. Bei [diesem hier](http://www.vickypham.com/blog/vietnamese-meatloaf-mam-chung) kannst du dir das Video anschauen, um einen ersten Eindruck zu bekommen:
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-04-mam+chung+cucumbers.jpg">
 
 Auch im [zweiten Rezept](http://www.phamfatale.com/id_988/title_Vietnamese-Meatloaf-Mam-Chung-Thit/) wird als weitere Füllung Hackfleisch verwendet. Bei beiden Gerichten wird die Mắm Chưng im Ofen gebacken.
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-04-mam-chung-thịt.jpg">
 
-Was aber schonender und geschmacklich viel feiner ist, wenn man einen Schnellkocher verwendet - so kenne ich es zumindest von unserer Mutter. Zwar verweisen beide Rezepte daraufhin, dass es mit Reist und frischen Gurken gegessen wird. Aber auch hier ist es viel interessanter mit verschiedenen frischen Kräutern zu arbeiten bzw. zu essen. Das besondere daran ist, wie man es ißt: slow - slow food sozusagen. Man zerpflückt ein paar Kräuter, zerreist es, legt diese in die Schale Reis, dazu eine halbe Gurke, Schale in die Hand, mittel Stäbchen ein Stück vom Eierkuchen wiederum in die Schale, das Schälchen hoch sich, an die Lippen und die Portion samt Reis "reinschieben" (und bitte nicht reinschaufeln!). Das ganze wiederholt man Portion für Portion...
+Was aber schonender und geschmacklich viel feiner ist, wenn man einen Schnellkocher verwendet - so kenne ich es zumindest von unserer Mutter. Zwar verweisen beide Rezepte daraufhin, dass es mit Reis und frischen Gurken gegessen wird. Aber auch hier ist es viel interessanter mit verschiedenen frischen Kräutern zu arbeiten bzw. zu essen. Das besondere daran ist, wie man es ißt: slow - Slow Food sozusagen. Man zerpflückt ein paar Kräuter, zerreist es, legt diese in die Schale Reis, dazu eine halbe Gurke, Schale in die Hand, mittels Stäbchen ein Stück vom Eierkuchen wiederum in die Schale, das Schälchen hoch zu sich, an die Lippen und die Portion samt Reis "reinschieben" (und bitte nicht reinschaufeln!). Das ganze wiederholt man gemütlich(!) Portion für Portion...
 
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-04-Mắm-cá-lóc-gedämpfter-Eierkuchen.jpg">
 
