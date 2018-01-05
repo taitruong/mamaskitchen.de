@@ -57,11 +57,11 @@ Und hier die finala Präsentation. Es war alles lecker. Beim La Lot habe ich, wi
 
 # Weiteres...
 
-Hier ein toller [Artikel aus der New York Times](https://www.nytimes.com/2016/06/22/dining/district-saigon-vietnamese-restaurant-queens.html). Ich mag die blumige Beschreibung des Artikels - wie z.B. die Beschreibung über die Phở-Suppe:
+Hier ein toller Artikel aus der New York Times, [The Secret to District Saigon’s Broths: Slow Cooking](https://www.nytimes.com/2016/06/22/dining/district-saigon-vietnamese-restaurant-queens.html). Ich mag die blumige Beschreibung des Artikels - wie z.B. die Beschreibung über die Phở-Suppe:
 
 > Still, it is but a shadow of the next pho on the list, the same broth transmuted by brisket patted down with five-spice and left to settle overnight, then smoked over wood chips and star anise for six hours. This has strange fathoms, as if you were drinking liquid cloud.
 
-"**...strange fathoms, as if you were drinking liquid cloud. ...**"... Phở-Suppe mit einem Hauch an fremden Strängen flüssiger Wolken :). Hier ein andere [Link mit Video](https://danangcuisine.com/recipes/recipe-56-bo-la-lot-grilled-beef-wrapped-in-betel-leaf/). Hier werden die in Beteln eingewickelten Hackfleischteile in der Pfanne gebraten. Davon habe ich auch gehört, aber gegrillt schmeckt das viel besser. Ich mag es daher auch lieber, weil ich dafür kein extra Fett benötige...
+"**...strange fathoms, as if you were drinking liquid cloud. ...**"... Phở-Suppe mit einem Hauch an fremden Strängen flüssiger Wolken :). Hier ein andere [Link mit Video, Recipe: Bò lá lốt – Grilled beef wrapped in betel leaf](https://danangcuisine.com/recipes/recipe-56-bo-la-lot-grilled-beef-wrapped-in-betel-leaf/). Hier werden die in Beteln eingewickelten Hackfleischteile in der Pfanne gebraten. Davon habe ich auch gehört, aber gegrillt schmeckt das viel besser. Ich mag es daher auch lieber, weil ich dafür kein extra Fett benötige...
 
 Wohl bekommt's! Mr. T
 
