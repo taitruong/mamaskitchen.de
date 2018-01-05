@@ -7,7 +7,7 @@ comments: true
 ---
 [2018-01-05 16:15]
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-05-final-presentation.jpg">
-Hackfleisch - wie jeder weiß - muss gehacktes Fleisch ganz frisch sein. D.h. beim Metzger darf der Hack - soweit ich weiß - nur einen Tag alt sein und sollte auch am gleichen Tag verzehrt werden. Am frischestens ist es jedoch, wenn man es von selber hackt - voraus gesetzt man hat ein Beil oder noch besser gleich zwei Beile :). Wer Tartar mag, dem wird der Unterschied nochmal auffallen. Für einen Tartar liebe ich es besonders das Fleisch frisch zu hacken. Gerne in der Präsentation am Tisch vor meinen Freunden. Nicht der Show wegen, sondern um die frische, die Qualittät und deren direkte Verarbeitung vor Augen zu verdeutlichen. So ist es möglich eine Nähe, Verbindung vom Anfang bis zum Endprodukt zu schaffen.
+Hackfleisch - wie jeder weiß - muss gehacktes Fleisch ganz frisch sein. D.h. beim Metzger darf der Hack - soweit ich weiß - nur einen Tag alt sein und sollte auch am gleichen Tag verzehrt werden. Am frischesten ist es jedoch, wenn man es von selber hackt - voraus gesetzt man hat ein Beil oder noch besser gleich zwei Beile :). Wer Tartar mag, dem wird der Unterschied nochmal auffallen. Für einen Tartar liebe ich es besonders das Fleisch frisch zu hacken. Gerne in der Präsentation am Tisch vor meinen Freunden. Nicht der Show wegen, sondern um die frische, die Qualittät und deren direkte Verarbeitung vor Augen zu verdeutlichen. So ist es möglich eine Nähe, Verbindung vom Anfang bis zum Endprodukt zu schaffen.
 
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-05-minced-chicken.jpg">
 <img class="image left" src="{{site.baseurl}}/images/2018-01-05-minced-chicken-beef-1.jpg">
