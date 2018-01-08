@@ -20,7 +20,7 @@ Wie bei praktisch allem kann man beim Huhn alles verwerten. Für den Hack habe i
 
 > Die Tiefkühltruhe ist für mich unverzichtbar und hat bei mir die Größe eines Sarges :). Oftmals koche ich mehr als ich brauche und friere einen Teil Portionsweise ein, manche Kräuter, Gemüse und Tomaten aus der Region möchte ich im Winter nicht missen und friere daher diese auch ein.
 
-Beinahe hätte ich das spärliche Brustgerippe weggeschmissen. Zum Glück habe ich es, leicht gewürzt mit Salz und Pfeffer, in den Ofen zusammen mit den Auberginen geworfen. So hatte ich während des Kochens was zu knabbern gehapt ;). Es war nicht viel - aber wie gesagt: ich versuche alles zu verwerten.
+Beinahe hätte ich das spärliche Brustgerippe weggeschmissen. Zum Glück habe ich es, leicht gewürzt mit Salz und Pfeffer, in den Ofen zusammen mit den Auberginen geworfen. So hatte ich während des Kochens etwas zum knabbern ;). Es war nicht viel - aber wie gesagt: ich versuche alles zu verwerten.
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-05-Brust-Gerippe.jpg">
 
 Ein gutes Huhn erkennt man unter anderem, dass sich direkt hinter dem Bürzel ein feiner 'Fettlappen' befindet. Im Gegensatz zu Massentierhaltung kann es (mehr) Fett ansetzen. Diese schneide ich ab und brate den Fett in der Pfanne raus - anstelle Öl zu verwenden.
