@@ -43,7 +43,7 @@ Weiter kommen in den Topf Walnüsse und 4-5 Anissterne hinzu. Da ich das erste M
 
 Abgeschmeckt wird das ganze mit Pfeffer und wahlweise mit Salz oder Fischsauce. Ich bevorzuge und empfehle stark die Fischsauce zu verwenden. Geschmacklich gibt das der Suppe einen ganz anderen Boost, als nur Salz zu verwenden. Die Suppe ist so nach 4 Stunden fertig. Sie braucht unter anderem deshalb so lange, damit sich die feine Anisnote ganz dezent entfalten kann. Der Umami im gegrillten Gemüse und in den Walnüssen verfeinern das Ganze nochmal und geben ihr den letzen Schliff.
 
-> Tipp: achte bitte darauf, wann du Fischsauce hinzufügen möchtest: zu Beginn, in der Mitte oder am Ende der Garzeit. Je nachdem du Salz bzw. Fischsauce hinzufügst, bestimmt das, wo der Geschmack des Fleisches am Schluß sein soll: im Fleisch oder in der Brüher. Möchttest du es in der Brühe haben, dann würzest du es am Ende. Magst du eine Kombi aus beidem, dann würzest du es in der Mitte der Garzeit. Also so nach 2h. Warum das so ist? Das hat was mit Osmose zu tun. Das habe ich im letzten Blog zur [Hühnersuppe](https://taitruong.github.io/mamaskitchen.de/2018/01/06/H%C3%BChnersuppe.html) gepostet.
+> Tipp: achte bitte darauf, wann du Fischsauce hinzufügen möchtest: zu Beginn, in der Mitte oder am Ende der Garzeit. Je nachdem wann du Salz bzw. Fischsauce hinzufügst, bestimmt das, wo der Geschmack des Fleisches am Schluß sein soll: im Fleisch oder in der Brüher. Möchttest du es in der Brühe haben, dann würzest du es am Ende. Magst du eine Kombi aus beidem, dann würzest du es in der Mitte der Garzeit. Also so nach 2h. Warum das so ist? Das hat was mit Osmose zu tun. Das habe ich im letzten Blog zur [Hühnersuppe](https://taitruong.github.io/mamaskitchen.de/2018/01/06/H%C3%BChnersuppe.html) gepostet.
 
 Die fertige Suppe unten mag für dich vielleicht unappetittlich aussehen - da zuviele Fettaugen. Du kannst dem abhelfen, wenn du während dem Kochen immer mal wieder die Suppe abschöpfen tust. Einerseits. Andererseits habe ich kein Problem damit, weil ich damit einen ganz anderen Umgang habe. Ich kann mir vorstellen, dass hierzulande zu Großmutters Zeiten das auch ganz normal ist und die Generationen danach nur super-hygienisch-supermarkt-astreines-schön-verpacktes-Fleisch-äh-nein-Produkte-im-Allgemeinen-kennen-deren-Ursprung-Verarbeitung-im-Verborgenen-bleibt ;).
 
@@ -52,14 +52,14 @@ Die fertige Suppe unten mag für dich vielleicht unappetittlich aussehen - da zu
 Vor dem Servieren müssen die Phở-Nudeln vorher für 1h oder über Nacht im kalten Wasser eingeweicht werden. Die Phở-Nudeln gibt es in allen Asiashops und in unterschiedlicher Breite. Für dieses Gericht, nehme ich gerne die kleinste Breite von einem Millimeter. Weiter brauch man noch folgende frische Sachen:
 
 - Kräuter: Thai-Basilikum (absolutes Muss), Koriander (wenn man mag) und optional noch andere Kräuter, so du halt Lust hast, Frühlingszwiebeln z.B. sind toll. Pfefferminz geht natürlich auch
-- frischen Chili, oder selbstgemachten Chili-Öl - von Mama ;)
+- frischen Chili, oder selbstgemachtes Chili-Öl - von Mama ;)
 - Spinat ist ganz toll, vor allem jetzt zur Winterzeit, ist die Qualität am besten. Und bitte: Spinat mit(!) Strunk.
 - Pilze wie z.B. Champignons oder die geschmacklich intensiveren Shitakis oder Kräuterseitlinge.
 - Zitronen
 - Fischsaucen
 - selbstgerösteten Knoblauch - von Mama ;)
 
-In die Schüssel machst du soviel Spinat rein, wie du magst. Gerne auch randvoll, da dieser absackt, sobald sie mit Brühe übergossen wird. Die vorher eingeweichten Reisnudel werden 30 Sekunden im Wasser gekocht und kommen in die Schüssel. Darüber die feingeschnittenen Pilze. Und dann schnell das ganze mit Brüher übergießen, bevor es wieder abkühlt.
+In die Schüssel machst du soviel Spinat rein, wie du magst. Gerne auch randvoll, da dieser absackt, sobald sie mit Brühe übergossen wird. Den Strunk verarbiet ich getrennt und schneide diese in dünnen Scheiben. Später wirst du bemerken, dass diese eine angenehme Süße entwickelt! Die vorher eingeweichten Reisnudel werden 30 Sekunden im Wasser gekocht und kommen in die Schüssel. Darüber die feingeschnittenen Pilze. Und dann schnell das ganze mit Brüher übergießen, bevor es wieder abkühlt. Die Pilze müssen fein geschnitten werden, damit der Geschmack durch das übergießen der heißen Brühe sich voll entfaltet!
 
 Alles andere, die Kräuter, Fischsauce, Viertel-Zitrone, Knoblauch, Chiliöl kommt auf dem Tisch, so dass es jeder nach seinem Gusto abschmecken und gestalten kann.
 
