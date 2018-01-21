@@ -26,22 +26,24 @@ Synergierender/verstärkender Umami:
 - Tunfisch, Lachs
 
 # Vorbereitung
-An diesen Beitrag bzw meine Recherche über Umami musste ich denken, als ich letztes Wochenende begann Phở zuzubereiten. Also habe ich zu diesem Gericht Walnüsse verwendet. Und ich finde das ist die bisher beste Version, die ich gekocht habe. Auf jeden Fall werde ich da mit Umami und Nüssen als Zutat weiterexperimentieren.
+An diesen Beitrag bzw meine Recherche über Umami musste ich denken, als ich letzte Wochenende begann Phở zuzubereiten. Also habe ich zu diesem Gericht Walnüsse verwendet. Und ich finde das ist die bisher beste Version, die ich gekocht habe. Auf jeden Fall werde ich da mit Umami und Nüssen als Zutat weiterexperimentieren.
 
 <img class="image left" src="{{site.baseurl}}/images/2018-01-21-roasting-ginger-onion-garlic-1.jpg">
 <img class="image right" src="{{site.baseurl}}/images/2018-01-21-roasting-ginger-onion-garlic-2.jpg">
 <img class="image left" src="{{site.baseurl}}/images/2018-01-21-roasting-ginger-onion-garlic-3.jpg">
 
 <img class="image right" src="{{site.baseurl}}/images/2018-01-21-roasting-ginger-onion-garlic-4.jpg">
-Das Röstaroma bekommt man, indem du als erstes die Zwiebel, den Inger und Knoblauch im Topf anbraten tust. Im Original - und so wird es in Vietnam noch oft gemacht - grillt man das Gemüse über offenen Feuer.
+Das Röstaroma bekommst du, indem du als erstes die Zwiebel, den Inger und Knoblauch im Topf anbraten tust. Im Original - und so wird es in Vietnam noch oft gemacht - grillt man das Gemüse über offenen Feuer.
 
-Als nächstes wird der Topf mit Wasser aufgefüllt und das Gemüse mit dem Siedfleisch zum kochen gebracht. Dabei nimmt soviel Siedfleisch, wieviel man mag und schätzt ungefähr die Anzahl der Portionen ab, die der Topf hergibt. Das ist die Menge, die man auch an Siedfleisch mitserviert. Bei 10 Portionen würde ich 500g Siedfleisch nehmen. Bei vietnamesischen Gästen würde ich eher 1kg nehmen ;). Bei diesem 10-Liter-Topf ergibt das gut 30 Portionen bzw. ungefähr 330ml Suppe pro Schüssel.
+Als nächstes wird der Topf mit Wasser aufgefüllt und das Gemüse mit dem Siedfleisch zum kochen gebracht. Dabei nimmst du soviel Siedfleisch, wieviel du magst und schätzt ungefähr die Anzahl der Portionen ab, die der Topf hergibt. Das ist die Menge, die man auch an Siedfleisch mitserviert. Bei 10 Portionen würde ich 500g Siedfleisch nehmen. Bei vietnamesischen Gästen würde ich eher 1kg nehmen ;). Bei diesem 10-Liter-Topf ergibt das gut 30 Portionen bzw. ungefähr 330ml Suppe pro Schüssel.
 
 Weiter kommen in den Topf Walnüsse und 4-5 Anissterne hinzu. Da ich das erste Mal Walnüsse hierfür verwendet habe, habe ich nicht soviel hinzugefügt. Im Nachhinein weiß ich jetzt, dass ich da deutlich mehr reinmachen kann. Die Nüsse schmecken hammermäßig gut und haben den Geschmack der Suppe in sich aufgesaugt.
 
 <img class="fit image" src="{{site.baseurl}}/images/2018-01-21-Phở-Bò-prepare-boiling.jpg">
 
-Abgeschmeckt wird das ganze mit Pfeffer und wahlweise mit Salz oder Fischsauce. Ich bevorzuge und empfehle stark die Fischsauce zu verwenden. Geschmacklich gibt das der Suppe einen ganz anderen Boost, als nur Salz zu verwenden. Achte bitte darauf, wann du Fischsauce hinzufügen möchtest. Die Suppe ist so nach 4 Stunden fertig. Sie braucht unter anderem deshalb so lange, damit sich die feine Anisnote ganz dezent entfalten kann. Der Umami im gegrillten Gemüse und in den Walnüssen verfeinern das Ganze nochmal und geben ihr den letzen Schliff.
+Abgeschmeckt wird das ganze mit Pfeffer und wahlweise mit Salz oder Fischsauce. Ich bevorzuge und empfehle stark die Fischsauce zu verwenden. Geschmacklich gibt das der Suppe einen ganz anderen Boost, als nur Salz zu verwenden. Die Suppe ist so nach 4 Stunden fertig. Sie braucht unter anderem deshalb so lange, damit sich die feine Anisnote ganz dezent entfalten kann. Der Umami im gegrillten Gemüse und in den Walnüssen verfeinern das Ganze nochmal und geben ihr den letzen Schliff.
+
+> Tipp: achte bitte darauf, wann du Fischsauce hinzufügen möchtest: zu Beginn, in der Mitte oder am Ende der Garzeit. Je nachdem du Salz bzw. Fischsauce hinzufügst, bestimmt das, wo der Geschmack des Fleisches am Schluß sein soll: im Fleisch oder in der Brüher. Möchttest du es in der Brühe haben, dann würzest du es am Ende. Magst du eine Kombi aus beidem, dann würzest du es in der Mitte der Garzeit. Also so nach 2h. Warum das so ist? Das hat was mit Osmose zu tun. Das habe ich im letzten Blog zur [Hühnersuppe](https://taitruong.github.io/mamaskitchen.de/2018/01/06/H%C3%BChnersuppe.html) gepostet.
 
 Die fertige Suppe unten mag für dich vielleicht unappetittlich aussehen - da zuviele Fettaugen. Du kannst dem abhelfen, wenn du während dem Kochen immer mal wieder die Suppe abschöpfen tust. Einerseits. Andererseits habe ich kein Problem damit, weil ich damit einen ganz anderen Umgang habe. Ich kann mir vorstellen, dass hierzulande zu Großmutters Zeiten das auch ganz normal ist und die Generationen danach nur super-hygienisch-supermarkt-astreines-schön-verpacktes-Fleisch-äh-nein-Produkte-im-Allgemeinen-kennen-deren-Ursprung-Verarbeitung-im-Verborgenen-bleibt ;).
 
