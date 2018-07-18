@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Strandcafé Grande Finale, Teil 2 - Die Phở und das Ungetüm an Gemüse!
 date: 2017-12-20 01:17
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Bio, Regional, Phở]

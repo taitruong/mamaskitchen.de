@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Phở Bò mit Walnuss-Umami
 date: 2018-01-21 18:30
 tags: [Phở Bò]

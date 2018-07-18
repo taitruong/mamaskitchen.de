@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: bún chả giò - Vietnamesicher Nudelsalat mit Frühlingsrollen und Rohkostdip - Strandcafé, 7. Dezember 2017
 date: 2017-12-03 21:00
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Frühlingsrollen, Sommerrollen ]

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Phở - Mein Abschluß fürs Strandcafé - Reisnudelsuppe mit Shitake, Champignons, Spinat und frischen Kräutern.
 date: 2017-12-18 23:30
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Bio, Regional, Phở]

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Đậu Phụ Sốt Cà Chua - Tofu-Tomatensauce
 date: 2017-12-12 00:40 - 2017-12-13 00:45
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Tofu, Đậu Hũ, Đậu Phụ, Tomaten, Chiliöl, Tofuöl, Strandcafé]

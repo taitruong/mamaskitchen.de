@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title:  "Yin und Yang - mehr als nur Basen und Säuren"
 date:   2017-11-27 23:12
 tags: [Laotisch, Vietnamesisch, französische, japanische, Küche, Yinyang, Yin, Yang]

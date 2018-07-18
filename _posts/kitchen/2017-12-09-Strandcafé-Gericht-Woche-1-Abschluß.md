@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: bún chả giò - Teil 2 - Mr. T on the Turntable ;)
 date: 2017-12-09 18:39 -
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, bun, Reisnudeln, Sommerrollen, Frühlingsrollen, Wirsing, Rohkostdip, Ingwer, Apfel, Radicchio, Feldsalat]

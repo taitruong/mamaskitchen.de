@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Ein Hühnersüppchen und ein Powerdrink
 date: 2018-01-06 14:21
 tags: [Hühnersuppe, Smoothie, Kurkuma, Grapefruit]

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Bò lá lốt - Hackfleischspieße in Betelblättern und überbackene Auberginen mit Hackfleisch und Fischsaucedip
 date: 2018-01-05
 tags: [Vietnamesisch, Betel]

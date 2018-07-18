@@ -3,7 +3,6 @@ layout: landing-page
 ---
 <section id="two" class="wrapper style2">
  <header class="major">
-  <a class="button special" href="{{ site.baseurl }}/blog.html">Beiträge</a>
   <div>"kochen, essen, teilen", lautet mein Motto. Die vietnamesische Küche ist von Natur aus eine Fusion-Küche mit Einflüssen aus Thailand, Laos, China, Kambodscha und jahrzehntelanger Prägung aus Frankreich und Japan. Hinzu kommt mein kochbegeisterter Freundeskreis aus Belgien, Portugal, dem Baden-Ländle und Kaiserstuhl...</div>
  </header>
 </section>

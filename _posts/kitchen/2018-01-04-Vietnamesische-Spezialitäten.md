@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Vietnamesische Spezialitäten
 date: 2018-01-04 15:45
 tags: [Vietnamesisch, Reisnudeln, Gerichte, Spezialitäten, Zutaten]

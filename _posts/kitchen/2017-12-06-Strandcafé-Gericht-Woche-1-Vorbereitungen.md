@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: bún chả giò - Teil 1 - Vorbereitungen für diesen Donnerstag im Strandcafé
 date: 2017-12-06 00:39
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, bun, Reisnudeln, Sommerrollen, Frühlingsrollen, Wirsing, Rohkostdip, Ingwer, Apfel, Raddicchio, Feldsalat]

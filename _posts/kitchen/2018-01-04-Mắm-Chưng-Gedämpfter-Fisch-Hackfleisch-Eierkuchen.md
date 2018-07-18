@@ -1,5 +1,6 @@
 ---
 layout: post
+category: kitchen
 title: Mắm Chưng- Gedämpfter Fisch-Hackfleisch-Eierkuchen
 date: 2018-01-04 21:15
 tags: [Mắm cá lóc, Eierkuchen, Vietnamesisch, Fermentiert, Fisch, Hackfleisch]
