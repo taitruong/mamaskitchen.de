@@ -40,7 +40,7 @@ layout: landing-page
       </section>
       <section class="special">
         <ul class="actions">
-          <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Zur Küche...</a></li>
+          <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Weiterlesen...</a></li>
         </ul>
       </section>
     </div>
