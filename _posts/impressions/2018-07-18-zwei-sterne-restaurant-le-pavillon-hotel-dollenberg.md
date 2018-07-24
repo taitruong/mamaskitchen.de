@@ -3,13 +3,13 @@ layout: post
 category: impressions
 title: 2-Sterne Restaurant "Le Pavillon" im Hotel Dollenberg, Schwarzwald
 date: 2018-07-18 21:00
-tags: [Impressionen]
+tags: [Impressionen, Restaurant, Michelin, Dollenberg, Le Pavillon, 2 Sterne]
 comments: true
 ---
 Am 10. Juni waren Anna und ich im 2-Sterne Restaurant Le Pavillon im Hotel Dollenberg im Schwarzwald.
 <video class="fit image" width="1280" height="960" controls>
   <source src="{{site.baseurl}}/images/2018-07-18-0-refreshing-show.mp4" type="video/mp4">
-  Sorry, dein Browser so alt, dass er dieses Video nicht abspielen kann :P!
+  Sorry, dein Browser so alt, dass du es nicht abspielen kannst :P!
 </video>
 
 # Menü Découverte
