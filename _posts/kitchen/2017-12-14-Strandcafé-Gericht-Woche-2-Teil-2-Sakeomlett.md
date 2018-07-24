@@ -1,7 +1,7 @@
 ---
 layout: post
 category: kitchen
-title: Đậu Phụ Sốt Cà Chua - Mehr Portionen und doch nicht genug...
+title: Đậu Hũ Sốt Cà Chua - Mehr Portionen und doch nicht genug...
 date: 2017-12-14 23:00
 tags: [Laotisch, Vietnamesisch, Küche, Strandcafé, Tofuchips, Sake, Omlett, Sakeomlett, Tofu, Đậu Hũ, Đậu Phụ, Tomaten, Chiliöl, Tofuöl, Bio, Regional]
 comments: true
