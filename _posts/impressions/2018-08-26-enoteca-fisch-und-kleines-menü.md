@@ -8,7 +8,6 @@ comments: true
 ---
 
 Am Dienstag, 21. August war ich mit Anna und Vincent spontan in der [Enoteca](https://www.enoteca-freiburg.de) essen. Auf ihrer Karte haben wir das kleine und das Fisch-Menü bestellt:
-
 <img class="image right" src="{{ site.baseurl }}/images/2018-08-26-fisch-menü.png">
 <img class="image left" src="{{ site.baseurl }}/images/2018-08-26-kleines-menü.png">
 
