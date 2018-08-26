@@ -12,7 +12,7 @@ Am Dienstag, 21. August war ich mit Anna und Vincent spontan in der [Enoteca](ht
 <img class="image right" src="{{ site.baseurl }}/images/2018-08-26-fisch-menü.png">
 <img class="image left" src="{{ site.baseurl }}/images/2018-08-26-kleines-menü.png">
 
-Zu Beginn gab es als Amuse Geule eine [Panzanella](https://en.wikipedia.org/wiki/Panzanella) - ein [italienischer Brotsalat aus der Toskana](https://www.kochwiki.org/wiki/Panzanella). Ein Arme-Leute-Essen, weil altes Brot wieder genießbar gemacht wird. Doch die das Essen ist hier alles andere als für arme Leute :).
+Zu Beginn gab es als Amuse Gueule eine [Panzanella](https://en.wikipedia.org/wiki/Panzanella) - ein [italienischer Brotsalat aus der Toskana](https://www.kochwiki.org/wiki/Panzanella). Ein Arme-Leute-Essen, weil altes Brot wieder genießbar gemacht wird. Doch das Essen ist hier alles andere als für arme Leute :).
 
 <img class="image fit" src="{{ site.baseurl }}/images/2018-08-26-0-amuse-geule-panzanella.jpg">
 
