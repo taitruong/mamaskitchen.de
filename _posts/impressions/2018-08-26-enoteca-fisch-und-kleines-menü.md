@@ -1,7 +1,7 @@
 ---
 layout: post
 category: impressions
-title: Enoteco - Das Fisch- und das kleine Menü
+title: Enoteca - Das Fisch- und das kleine Menü
 date: 2018-08-26 17:29
 tags: [Impressionen]
 comments: true
