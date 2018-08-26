@@ -9,7 +9,7 @@ comments: true
 Am 10. Juni waren Anna und ich im 2-Sterne Restaurant Le Pavillon im Hotel Dollenberg im Schwarzwald.
 <video class="fit image" width="1280" height="960" controls>
   <source src="{{site.baseurl}}/images/2018-07-18-0-refreshing-show.mp4" type="video/mp4">
-  Sorry, dein Browser so alt, dass du es nicht abspielen kannst :P!
+  Sorry, dein Browser ist so alt, dass du es nicht abspielen kannst :P!
 </video>
 
 # Menü Découverte
