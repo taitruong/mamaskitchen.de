@@ -910,6 +910,20 @@
 		padding-top: 3em;
 	}
 
+	#header-mobile {
+		background: #fff;
+		text-align: right;
+		color: #555f66;
+		cursor: default;
+		height: 3em;
+		left: 0;
+		line-height: 3em;
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 10000;
+	}
+
 	#header {
 		background: #fff;
 		color: #555f66;
