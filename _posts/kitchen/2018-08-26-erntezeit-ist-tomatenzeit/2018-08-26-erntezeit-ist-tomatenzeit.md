@@ -7,7 +7,7 @@ tags: [Laotisch, Vietnamesisch, Küche]
 comments: true
 ---
 Wer liebt nicht Tomaten? Und momentan gibt es sie noch - zum Beispiel am Demeter-Stand auf dem Münstermarkt. Und da ich nach Möglichkeit nur regionale Produkte verwende und im Winter darauf nicht verzichten möchte, verarbeite ich jetzt zur besten Erntezeit welche :).
-<video class="fit image" width="1280" height="960" controls>
+<video class="fit image" width="640" height="480" controls>
   <source src="{{site.baseurl}}/images/2018-08-26-kitchen-erntezeit-ist-tomatenzeit/2018-09-13-tomatensosse-0.mp4" type="video/mp4">
   Sorry, dein Browser ist so alt, dass du es nicht abspielen kannst :P!
 </video>
