@@ -3,7 +3,7 @@ layout: post
 category: impressions
 title: Frühstück im Slow Bakery, Alghero, Sardinien
 date: 2018-09-01
-tags: [Impressionen]
+tags: [Impressionen, Alghero, Sardinien, Slow Bakery, Früchtejoghurt]
 comments: true
 ---
 
