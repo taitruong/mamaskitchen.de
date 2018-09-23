@@ -3,7 +3,7 @@ layout: post
 category: kitchen
 title: Erntezeit ist Tomatenzeit
 date: 2018-08-26 21:09
-tags: [Laotisch, Vietnamesisch, Küche]
+tags: [Küche, Demeter, Münstermarkt, Freiburg, Ochsenherztomate, Berne Rose, Tomatensoße, Maultaschen, wilder Majoran]
 comments: true
 ---
 Wer liebt nicht Tomaten? Und momentan gibt es sie noch - zum Beispiel am Demeter-Stand auf dem Münstermarkt. Und da ich nach Möglichkeit nur regionale Produkte verwende und im Winter darauf nicht verzichten möchte, verarbeite ich jetzt zur besten Erntezeit welche :).
