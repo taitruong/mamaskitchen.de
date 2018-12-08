@@ -34,4 +34,9 @@ Da ich nicht so viel Salz mag und trotzdem auf gute Tomaten verzichten nicht ver
 
 <img class="image fit" src="{{site.baseurl}}/images/2018-12-07-Doerrgemüse-teaser/tomatoes.jpg"/>
 
+Und was mache ich alles damit? Das:
+
+<img class="image fit" src="{{site.baseurl}}/images/2018-12-07-Doerrgemüse-teaser/gemüsebouquet.jpg"/>
+
+
 Enjoy, Mr. T
