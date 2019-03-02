@@ -3,7 +3,7 @@ layout: post
 category: kitchen
 title: Gỏi / Vietnamesischer Salat bzw. typische 'Biergerichte'
 date: 2019-02-24
-tags: [Laotisch, Vietnamesisch, Salat, Bier]
+tags: [Vietnamesisch, Salat, Gỏi, Nộm, Mettwurst, Biergericht]
 comments: true
 ---
 
