@@ -2,8 +2,8 @@
 layout: post
 category: kitchen
 title:
-date: 2018-
-tags: [Laotisch, Vietnamesisch, Küche]
+date: 2019-
+tags: [Laotisch, Vietnamesisch]
 comments: true
 ---
 
