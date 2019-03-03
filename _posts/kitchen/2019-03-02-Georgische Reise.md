@@ -28,10 +28,10 @@ Teamwork :)!
 Dazu gab's gebratene Zuchini.
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/07-gebratene Zuchini.jpg">
 
-Und dieser nussiger Tomate-Gurken-Salat ist der Hammer. Mit ganz vielen Walnüssen und ohne Öl! Hier ein Rezept auf diesen [Blog über Georgien](https://www.sakartwelo.com/georgische-rezepte/).
+Und dieser nussiger Tomate-Gurken-Salat ist der Hammer. Mit ganz vielen Walnüssen und ohne Öl! Hier ein Rezept auf diesen [Blog über Georgien](https://www.sakartwelo.com/georgische-rezepte/). Diese hier wurde nach diesem [Rezept](https://chefbabe.at/2013/08/09/tomate-gurke-salat-mit-walnusspaste/) gemacht:
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/08-Nussiger Tomaten-Gurken-Salat.jpg">
 
-Das georgische Nationalgericht:
+Wie auf [Wikipedia](https://de.wikipedia.org/wiki/Chinkali) beschrieben, nimmt man ein Chinkali in die Hand, beißt den Zipfel ab, trinkt den Saft aus der Tasche und isst dann den Rest.
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/09-Chinkali.jpg">
 
 Sehr lecker :)!
