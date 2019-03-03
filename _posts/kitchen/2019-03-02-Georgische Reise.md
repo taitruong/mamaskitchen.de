@@ -7,7 +7,7 @@ tags: [Georgisch, Chinkali, Salat]
 comments: true
 ---
 
-Georgien? Kenn ich nicht wirklich. Ihre Küche? Kannte ich seit gestern auch nicht. Jetzt weiß ich wie köstlich, inspirierend, einfach (damit meine ich natürliche, ehrliche Aromen) und überragend es ist - Dank den beiden tollen Köchen :*!
+Georgien? Kenn ich nicht wirklich. Ihre Küche? Kannte ich seit gestern auch nicht. Jetzt weiß ich, wie köstlich, inspirierend, einfach (damit meine ich natürliche, ehrliche Aromen) und überragend es ist - Dank den beiden tollen Köchen :*!
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/01-cover-collage-Chinkali, nussiger Tomaten-Gurken-Salat.jpg">
 
 Anna, meine Freundin, und Philipp, unser Freund, waren beide mal in Georgien und sind seither von deren Küche begeistert. Gestern haben sie sich erstmal an deren Küche gewagt und gleich mal ein georgisches Nationalgericht hergezaubert: dem Chinkali. Kaukasis, ein tolles georgisches Kochbuch, findest du auf [buch7 - dem Buchhandel mit der sozialen Seite](https://www.buch7.de/store/product_details/1031616659).
@@ -19,7 +19,7 @@ Als erstes wird der Teig gemacht (bestehend aus 300g Mehl, halbsoviel Wasser und
 Und dann wird das Entrecôte zu Hack verarbeitet...
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/04-entrecotehack.gif">
 
-Gewürz wird das mit [swanetischen Gewürzsalzt](https://de.wikipedia.org/wiki/Swanetisches_Gewürzsalz), viel Zwiebeln, Knoblauch und etwas scharfen Chili. Das Salz und die Chili geben dem eine sehr schöne Note!
+Gewürz wird das mit [swanetischen Gewürzsalz](https://de.wikipedia.org/wiki/Swanetisches_Gewürzsalz), viel Zwiebeln, Knoblauch und etwas scharfen Chili. Das Salz und die Chili geben dem eine sehr schöne Note!
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/05-Chinkali-Füllung.jpg">
 
 Teamwork :)!
@@ -28,7 +28,7 @@ Teamwork :)!
 Dazu gab's gebratene Zuchini.
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/07-gebratene Zuchini.jpg">
 
-Und dieser nussiger Tomate-Gurken-Salat ist der Hammer. Mit ganz vielen Walnüssen und ohne Öl! Hier ein Rezept auf diesen [Blog über Georgien](https://www.sakartwelo.com/georgische-rezepte/). Diese hier wurde nach diesem [Rezept](https://chefbabe.at/2013/08/09/tomate-gurke-salat-mit-walnusspaste/) gemacht:
+Und dieser nussige Tomate-Gurken-Salat ist der Hammer. Mit ganz vielen Walnüssen und ohne Öl! Hier ein Rezept auf diesen [Blog über Georgien](https://www.sakartwelo.com/georgische-rezepte/). Den Salat hier hat Philipp nach diesem [Rezept](https://chefbabe.at/2013/08/09/tomate-gurke-salat-mit-walnusspaste/) gemacht:
 <img class="image fit" src="{{site.baseurl}}/images/2019-03-02-Georgische Reise/08-Nussiger Tomaten-Gurken-Salat.jpg">
 
 Wie auf [Wikipedia](https://de.wikipedia.org/wiki/Chinkali) beschrieben, nimmt man ein Chinkali in die Hand, beißt den Zipfel ab, trinkt den Saft aus der Tasche und isst dann den Rest.
